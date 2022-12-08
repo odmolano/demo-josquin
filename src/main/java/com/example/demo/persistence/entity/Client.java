@@ -3,8 +3,6 @@ package com.example.demo.persistence.entity;
 
 import javax.persistence.*;
 
-//hello
-
 @Entity
 @Table(name="Clients")
 public class Client {
